@@ -8,9 +8,9 @@ Sou o **Gutherry**! Atualmente trabalho como **Engenheiro DevOps**.
 
 Minha stack envolve:
 
-Minha stack envolve:
-
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) Linux
+- ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white) Datadog
+- ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white) Argocd
 - ![Networking](https://img.shields.io/badge/Networking-006400?style=flat&logo=cisco&logoColor=white) Fundamentos de redes
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) Bash
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Programação (Bash e Python)
@@ -30,8 +30,9 @@ O que mais me motiva em DevOps é a possibilidade de lidar com infraestruturas c
 
 ## 🎯 O que faço nas horas vagas
 
-- Gosto de quebrar alguns clusters Kubernetes no meu homelab 🧪
+- Gosto de cozinhar 🍳
 - Treinar na academia 🏋️
+- Gosto de quebrar alguns clusters Kubernetes no meu homelab 🧪
 - Maratonar séries e filmes na Netflix 🎬
 - Jogar 🎮
 - E curtir o tempo com as pessoas que amo ❤️
