@@ -99,3 +99,4 @@ O que mais me motiva em DevOps é a possibilidade de lidar com infraestruturas c
 
 ---
 
+[![Gutherry Ferreira GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gutherry&show_icons=true)](https://github.com/Gutherry)
