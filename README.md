@@ -60,6 +60,7 @@ O que mais me motiva em DevOps é a possibilidade de lidar com infraestruturas c
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-FF0000?style=flat&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" />
   <br/>
 
   <!-- Linha 4 -->
@@ -76,7 +77,6 @@ O que mais me motiva em DevOps é a possibilidade de lidar com infraestruturas c
   <img src="https://img.shields.io/badge/Regex-000000?style=flat&logo=regex&logoColor=white" />
   <img src="https://img.shields.io/badge/Sys%20Design-4682B4?style=flat&logo=airplayaudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardware-8A2BE2?style=flat&logo=circuitverse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Big%20Data-000000?style=flat&logo=apachehadoop&logoColor=white" />
   <br/>
 
   <!-- Linha 6 -->
@@ -88,7 +88,6 @@ O que mais me motiva em DevOps é a possibilidade de lidar com infraestruturas c
   <br/>
 
   <!-- Linha 7 -->
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat&logo=puppet&logoColor=white" />
   <img src="https://img.shields.io/badge/Distributed-FF4500?style=flat&logo=apachekafka&logoColor=white" />
