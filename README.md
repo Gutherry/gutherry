@@ -1,43 +1,37 @@
-# Hey there 👋
+# Olá! 👋
 
-I'm **Gutherry**, currently working as a **DevOps Engineer**.  
-My daily toolkit includes:
+Sou o **Gutherry**, atuo atualmente como **Engenheiro DevOps** .
+No meu dia a dia, trabalho com:
 
-🖥️ Linux & Networking Fundamentals  
-💻 Programming (Bash & Python)  
+🖥️ Linux & Fundamentos de Redes  
+💻 Programação (Bash & Python)  
 🐳 Docker & Kubernetes  
 ☁️ AWS  
 🔧 Terraform, Ansible  
-📊 EFK Stack, Prometheus, Grafana  
-...and more!
+📊 Stack EFK, Prometheus, Grafana  
+...e muito mais!
 
 ---
 
-### 🚀 What drives me in DevOps
+### 🚀 O que me motiva no DevOps
 
-I'm passionate about building and managing **complex infrastructures**, while **automating everything** on top of it. I love turning repetitive tasks into scripts and seeing systems run smoothly with minimal manual intervention. 🧡
-
----
-
-### 🧪 Outside of work
-
-In my spare time, you'll usually find me:
-
-- Breaking Kubernetes clusters in my homelab 🧠🔥  
-- Lifting weights at the gym 💪  
-- Binge-watching Netflix 🎬  
-- Gaming 🎮  
-- Spending quality time with the people I love 💙
+Sou apaixonado por construir e gerenciar **infraestruturas complexas**, enquanto **automatizo tudo** ao redor. Gosto de transformar tarefas repetitivas em scripts e ver sistemas rodando de forma eficiente com o mínimo de intervenção manual. 🧡
 
 ---
 
-### 📡 Content creation
+### 🧪 Fora do trabalho
 
-I'm also into creating content to share knowledge and connect with the tech community.
+No meu tempo livre, geralmente estou:
 
-👉 Check out my latest content [here](#) *(add your link!)*
+- Quebrando clusters Kubernetes no meu homelab 🧠🔥  
+- Treinando na academia 💪  
+- Maratonando séries na Netflix 🎬  
+- Jogando videogame 🎮  
+- Curtindo momentos com quem amo 💙
 
 ---
 
-Feel free to connect with me, collaborate on projects, or just drop a friendly "hi"!  
-Let's keep building cool things together. 🚀
+---
+
+Sinta-se à vontade para se conectar comigo, colaborar em projetos ou apenas mandar um "oi"!  
+Vamos continuar criando coisas incríveis juntos. 🚀
