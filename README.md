@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Sou o Gutherry! Atualmente trabalho como **Engenheiro DevOps**.
+Sou o **Gutherry**! Atualmente trabalho como **Engenheiro DevOps**.
 
 ---
 
@@ -16,12 +16,12 @@ Minha stack envolve:
 - AWS
 - Terraform
 - Ansible
-- EFK
+- Datadog
 - Prometheus
 - Grafana
 - E muitas outras ferramentas de automação e observabilidade...
 
-O que mais me motiva em DevOps é a possibilidade de lidar com infraestruturas complexas e, ao mesmo tempo, **automatizar praticamente tudo por cima disso** 🧡.
+O que mais me motiva em DevOps é a possibilidade de lidar com infraestruturas complexas e, ao mesmo tempo, **automatizar praticamente tudo por cima disso**  🧡.
 
 ---
 
@@ -33,20 +33,13 @@ O que mais me motiva em DevOps é a possibilidade de lidar com infraestruturas c
 - Jogar 🎮
 - E curtir o tempo com as pessoas que amo ❤️
 
----
-
-## 📢 Também sou criador de conteúdo!
-
-Fique à vontade para conferir o que ando postando 😉
-
----
 
 ## 🚀 Conhecimentos & Habilidades Técnicas
 
 <p align="left">
   <!-- Linha 1 -->
-  <img src="https://img.shields.io/badge/DevOps-000000?style=flat&logo=devops&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-000000?style=flat&logo=devops&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-006400?style=flat&logo=cisco&logoColor=white" />
@@ -66,8 +59,6 @@ Fique à vontade para conferir o que ando postando 😉
   <img src="https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-FF0000?style=flat&logo=security&logoColor=white" />
   <br/>
 
