@@ -52,10 +52,10 @@ O que mais me motiva em DevOps é a possibilidade de lidar com infraestruturas c
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Scripts-4B8BBE?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
   <br/>
 
   <!-- Linha 3 -->
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
@@ -68,7 +68,6 @@ O que mais me motiva em DevOps é a possibilidade de lidar com infraestruturas c
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Virtualization-003366?style=flat&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/DNS-005A9C?style=flat&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Miscellaneous-808080?style=flat&logo=readthedocs&logoColor=white" />
   <br/>
 
   <!-- Linha 5 -->
@@ -86,7 +85,6 @@ O que mais me motiva em DevOps é a possibilidade de lidar com infraestruturas c
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white" />
   <img src="https://img.shields.io/badge/Storage-708090?style=flat&logo=simpleicons&logoColor=white" />
-  <img src="https://img.shields.io/badge/HR-FF69B4?style=flat&logo=workplace&logoColor=white" />
   <br/>
 
   <!-- Linha 7 -->
